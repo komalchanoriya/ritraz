@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403035696948",
+    "project_id": "ritraz-1c4cb",
+    "storage_bucket": "ritraz-1c4cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403035696948:android:7a36c06def3a0c7cb4bf61",
+        "android_client_info": {
+          "package_name": "com.example.ritraz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403035696948-t0fkoomrae6tlr9adllb0kolnb7lipj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ritraz",
+            "certificate_hash": "e076e6dcaf79a57eef2a0adb8a883b3777e7e7ca"
+          }
+        },
+        {
+          "client_id": "403035696948-ic5c733h399aclu9kttvgtiejb4n0ani.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZe8nUxMq5cy-U-xHl5QG-K8YmZ1RhxO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403035696948-ic5c733h399aclu9kttvgtiejb4n0ani.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
